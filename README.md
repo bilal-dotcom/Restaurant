@@ -7,8 +7,8 @@ Create a restaurant website to manage features
 A website to manage restaurant data, create a member account and view information, your menus. A login page to connect and make his own changes.
 
 ### Screenshots
-![Capture d’écran (137)](https://i.postimg.cc/RhqgX1dm/Capture-d-cran-140.png)
-![Capture d’écran (137)](https://i.postimg.cc/2SJrwTxk/Capture-d-cran-137.png)
+![Capture d’écran (137)](https://i.postimg.cc/nLKZ8kkH/Capture-d-cran-142.png)
+![Capture d’écran (137)](https://i.postimg.cc/3RnTNxVV/Capture-d-cran-143.png)
 
 
 ### Technologies
